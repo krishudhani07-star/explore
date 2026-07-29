@@ -1,0 +1,27 @@
+body{
+    background: #fcfbfb;
+}
+.h12{
+    display: flex;
+    gap: 500px;
+}
+ul{
+    display: flex;
+    list-style: none;
+    gap: 90px;
+       
+
+}
+li{
+    white-space:nowrap;   
+
+}
+ul li a{
+  text-decoration: none;   
+}
+.p1,.po2,.hr1{
+    color: #037e10;
+}
+.p2,.p3,.p4,.p5{
+    color: #000;
+}

@@ -1,0 +1,174 @@
+
+body{
+    margin: 0%;
+    padding: 0px;
+}
+.head1{
+    display: flex;
+    background-color: rgba(255, 254, 254, 0);
+    height: 48px;
+}
+ul li a  {
+    text-decoration: none;
+}
+#hr1{
+    color:  rgb(3, 116, 8);
+}
+.p1{
+    
+    color:  rgb(3, 116, 8);
+}
+.p2,.p3,.p4,.p5{
+    color: black;
+}
+ul li a hr{
+       background-color:  rgb(8, 246, 20);
+   color:  rgb(8, 246, 20);
+
+}
+
+
+.head1 ul {
+list-style: none;
+display: flex;
+gap: 74px;
+color: rgb(8, 246, 20);
+padding-left: 514px;
+}
+
+#po2 {
+    color: rgb(8, 246, 20);
+    padding-bottom: 37px;
+    position: relative;
+        padding-left: 51px;
+    bottom: 10px;
+    font-size: 26px;
+
+}
+
+.body1{
+    background-image: url(../../assets/pou.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    height: 400px ;
+    width: 100%;
+padding-bottom: 10px;
+}
+
+.body1 p{
+    position: relative;
+    color: rgb(241, 238, 238);
+    padding-left: 51px;
+    top: -9px;
+    
+
+}
+#h91{
+    margin: 0px;
+    font-size: 75px;
+    padding-left: 51px;
+    padding-top: 74px;
+    color: white;
+}
+#h12{
+    margin: 0px;
+    font-size: 75px;
+        padding-left: 51px;
+     color: white;
+      padding-top: -6px;
+
+}
+.body12{
+        padding-left: 51px;
+}
+
+#b1{
+    margin-left: 5px;
+   background-color:  rgb(8, 246, 20);
+    color: white;
+    border-color:  rgb(8, 246, 20);
+        
+    height: 31px;
+    width: 107px;
+}
+#b2{
+    margin-left: 30px;
+    background-color: transparent;
+    color: white;
+    border-color: white;
+    height: 31px;
+    width: 107px;
+    transition: transform 13s ease,background-color 13s ease;
+}
+.lop{
+    display: flex;
+    border-color: black;
+    gap: 200px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.nav1 ul li a{
+   list-style-type: none;
+}
+.p1{
+    height: 100px;
+    width: 300px;
+    border-color: black;
+    text-align: center;
+}
+.p1 h1{
+    font-size: 17px;
+}
+.p1 p{
+    font-size: 17px;
+}
+.pol{
+    display: flex;
+    background-color:rgb(51, 56, 58);
+    margin-top: 159px;
+    padding-left: 142px;
+    gap: 120px;
+}
+.pol img{
+    height: 20px;
+    width: 20px;
+
+}
+.pol h1{
+    color: white;
+}
+.pol p{
+    color: white;
+
+}
+.pol ul{
+    color: white;
+    list-style-type: none;
+}
+.pol button{
+     background-color:  rgb(8, 246, 20);
+    color: white;
+    border-color:  rgb(8, 246, 20);
+
+}
+#iphone{
+    color:  rgb(8, 246, 20);;
+}
+footer{    
+background-color:rgb(51, 56, 58);
+text-align: center;
+}
+#iui{
+    color: white;
+}
+.body1 p{
+    color: white;
+    padding-left: 51px;
+}
+
+img{
+    height: 124px;
+    width: 124px;
+}

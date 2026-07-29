@@ -1,0 +1,139 @@
+body{
+    margin: 0%;
+    padding: 0px;
+}
+.head{
+    display: flex;
+    background-color: rgba(255, 254, 254, 0);
+    height: 48px;
+}
+
+.head ul {
+list-style: none;
+display: flex;
+gap: 74px;
+color: solid green;
+padding-left: 514px;
+}
+
+
+#po2 {
+    color: rgb(8, 246, 20);
+    padding-bottom: 37px;
+    position: relative;
+    padding-left: 51px;
+    bottom: 10px;
+    font-size: 26px;
+
+}
+#plm{
+    display: flex;
+    gap: 300px;
+    position: relative;
+}
+#pok{
+    display: flex;
+    border-color: antiquewhite;
+}
+.body1{
+    padding-left: 124px;
+    padding-top:80px ;
+}
+.body1 h3{
+    color: rgb(8, 246, 20);
+}
+.body1 p{
+    color: gray;
+    display: flex;
+    position: relative;
+}
+.body2 {
+    padding-top: 159px;
+    top: 2000px;
+    border-color: black;
+    
+}
+.body2 input{
+   height: 33px;
+   width: 363px;
+}
+.body2 textarea{
+    height: 50px;
+    width: 363px;
+}
+.body2 button{
+     background-color:  rgb(8, 246, 20);
+    color: white;
+    border-color:  rgb(8, 246, 20);
+    
+}
+.pol{
+    display: flex;
+    background-color:rgb(51, 56, 58);
+    margin-top: 159px;
+    padding-left: 142px;
+    gap: 120px;
+}
+.pol img{
+    height: 20px;
+    width: 20px;
+
+}
+.pol h1{
+    color: white;
+}
+.pol p{
+    color: white;
+
+}
+.pol ul{
+    color: white;
+    list-style-type: none;
+}
+.pol button{
+     background-color:  rgb(8, 246, 20);
+    color: white;
+    border-color:  rgb(8, 246, 20);
+
+}
+#iphone{
+    color:  rgb(8, 246, 20);;
+}
+.p5{
+    
+    color:  rgb(3, 116, 8);
+}
+.p2,.p3,.p4,.p1{
+    color: black;
+}
+ul li a  {
+    text-decoration: none;   
+}
+#hr1{
+    color:  rgb(3, 116, 8);
+}
+ul li a hr{
+       background-color:  rgb(8, 246, 20);
+   color:  rgb(8, 246, 20);
+
+}
+footer{    
+background-color:rgb(51, 56, 58);
+text-align: center;
+}
+#iui{
+    color: white;
+}
+ul li a hr{
+       background-color:  rgb(8, 246, 20);
+   color:  rgb(8, 246, 20);
+
+}
+input{
+height: 35PX;
+width: 462PX;
+}
+textarea{
+height: auto;
+width: 462px;
+}

@@ -1,0 +1,86 @@
+body{
+    margin: 0%;
+    padding: 0px;
+}
+.head{
+    display: flex;
+    background-color: rgba(255, 254, 254, 0);
+    height: 48px;
+}
+
+.head ul {
+list-style: none;
+display: flex;
+gap: 74px;
+color: solid green;
+padding-left: 514px;
+}
+
+.oolp{
+  
+   grid-template-columns: repeat(3,1fr);
+   gap: 15px;
+   object-fit: cover;
+   border-radius: 8px;
+   padding: 20px;
+}
+ul li a  {
+    text-decoration: none;  
+}
+.p3{
+    
+    color:  rgb(3, 116, 8);
+}
+.p2,.p1,.p4,.p5{
+    color: black;
+}
+#hr1{
+    color:  rgb(3, 116, 8);
+}
+ul li a hr{
+       background-color:  rgb(8, 246, 20);
+   color:  rgb(8, 246, 20);
+
+}
+button{
+     background-color:  rgb(8, 246, 20);
+    color: white;
+    border-color:  rgb(8, 246, 20);
+}
+ .oolp h1,p,button{
+    text-align: center;
+    padding-left: 30px;
+}
+
+.oolp img{
+    padding-left: 20px;
+}
+button{
+     background-color:  rgb(8, 246, 20);
+    color: white;
+    border-color:  rgb(8, 246, 20);
+    text-align: center;
+    padding-left: 20px;
+        margin-left: 551px;
+    margin-top: 16px;
+    height: 30px;
+    width: 150px;
+    text-align: center;
+}
+#po2 {
+    color: rgb(8, 246, 20);
+    padding-bottom: 37px;
+    position: relative;
+        padding-left: 51px;
+    bottom: 10px;
+    font-size: 26px;
+
+}
+#iphone{
+    color:  rgb(8, 246, 20);;
+}
+ul li a hr{
+       background-color:  rgb(8, 246, 20);
+   color:  rgb(8, 246, 20);
+
+}
